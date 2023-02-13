@@ -9,4 +9,6 @@
 7. Use fstrings to create message from the data, first fstring pulls the timestamp from column one. 
 8. Create 3 seperate messages that send the timestamp followed by either the smoker temp, food 1 temp, or food 2 temp. 
 9. Set the producer to sleep for 30 seconds. 
-10. Use the python idiom to call appropriate functions. 
+10. Use the python idiom to call appropriate functions.
+
+![smart smoker](https://user-images.githubusercontent.com/111606778/218597133-485aca8b-db2b-4158-bb00-5f4aab15f466.png)
